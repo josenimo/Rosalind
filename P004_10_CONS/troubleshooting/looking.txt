@@ -1,0 +1,131 @@
+pos: 0
+dict_key: A
+tmpmax2
+dict_key: C
+tmpmax2
+dict_key: G
+tmpmax2
+dict_key: T
+tmpmax5
+pos: 1
+dict_key: A
+tmpmax1
+dict_key: C
+tmpmax1
+dict_key: G
+tmpmax4
+dict_key: T
+tmpmax4
+pos: 2
+dict_key: A
+tmpmax2
+dict_key: C
+tmpmax2
+dict_key: G
+tmpmax4
+dict_key: T
+tmpmax4
+pos: 3
+dict_key: A
+tmpmax2
+dict_key: C
+tmpmax4
+dict_key: G
+tmpmax4
+dict_key: T
+tmpmax4
+pos: 4
+dict_key: A
+tmpmax3
+dict_key: C
+tmpmax3
+dict_key: G
+tmpmax3
+dict_key: T
+tmpmax3
+pos: 5
+dict_key: A
+tmpmax1
+dict_key: C
+tmpmax6
+dict_key: G
+tmpmax6
+dict_key: T
+tmpmax6
+pos: 6
+dict_key: A
+tmpmax2
+dict_key: C
+tmpmax2
+dict_key: G
+tmpmax3
+dict_key: T
+tmpmax3
+pos: 7
+dict_key: A
+tmpmax2
+dict_key: C
+tmpmax2
+dict_key: G
+tmpmax3
+dict_key: T
+tmpmax3
+pos: 8
+dict_key: A
+tmpmax3
+dict_key: C
+tmpmax3
+dict_key: G
+tmpmax4
+dict_key: T
+tmpmax4
+pos: 9
+dict_key: A
+tmpmax1
+dict_key: C
+tmpmax3
+dict_key: G
+tmpmax3
+dict_key: T
+tmpmax3
+pos: 10
+dict_key: A
+tmpmax3
+dict_key: C
+tmpmax3
+dict_key: G
+tmpmax3
+dict_key: T
+tmpmax5
+pos: 11
+dict_key: A
+tmpmax2
+dict_key: C
+tmpmax2
+dict_key: G
+tmpmax3
+dict_key: T
+tmpmax4
+pos: 12
+dict_key: A
+tmpmax2
+dict_key: C
+tmpmax3
+dict_key: G
+tmpmax3
+dict_key: T
+tmpmax4
+pos: 13
+dict_key: A
+tmpmax1
+dict_key: C
+tmpmax2
+dict_key: G
+tmpmax2
+dict_key: T
+tmpmax5
+   A
+A: 2 1 2 2 3 1 2 2 3 1 3 2 2 1
+C: 1 1 2 4 1 6 2 2 0 3 0 1 3 2
+G: 2 4 4 2 3 2 3 3 4 3 2 3 1 2
+T: 5 4 2 2 3 1 3 3 3 3 5 4 4 5
