@@ -1,0 +1,26 @@
+# #creating dictionary {protein id: amino acid sequence string}
+
+# with open('proteins.txt', 'r') as f:
+#     FASTAfile = [l.strip() for l in f.readlines()]
+
+# FASTADict = {}
+# FASTALabel =''
+
+# for line in FASTAfile:
+#     if '>' in line:
+#         FASTALabel = line
+#         FASTADict[FASTALabel] = ''
+#     else:
+#         FASTADict[FASTALabel] += line
+
+# newdict={}
+
+# for i in range(len(oldlabel)):
+#     tmp=''
+#     for x in FASTADict:
+#         if ids[i] in x:
+#             tmp=(FASTADict[x])
+#             break
+#     newdict[oldlabel[i]]=tmp
+  
+# print(newdict)
